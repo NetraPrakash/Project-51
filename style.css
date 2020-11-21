@@ -1,0 +1,34 @@
+h1{
+color: deeppink ;
+font-style: italic;
+}
+body{
+    background-color: lightblue;
+}
+h3{
+display: flex;
+color: deeppink;
+margin-top: 20px;
+justify-content: space-evenly;
+}
+h4{
+    color:dodgerblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+ul{
+color: dodgerblue;
+font-size: xx-large;
+}
+.links{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-size: 30px;
+border-style: solid;
+border-color: lightpink;
+background-color: lightpink;
+}
+
+
+
